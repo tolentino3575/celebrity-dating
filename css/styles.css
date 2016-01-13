@@ -1,0 +1,12 @@
+.btn {
+  display: block;
+}
+
+#aniston, #lawrence, #lopez, #trump, #sanders, #clinton {
+  display: none;
+}
+
+p, h1, body {
+  text-align: center;
+  font-size: 30px;
+}
